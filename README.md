@@ -1,2 +1,2 @@
-# machine-learning
+# Machine Learning
 Machine learning exercises/notebooks.
