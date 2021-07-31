@@ -61,6 +61,7 @@ st.subheader('''
 '''.format(shape[1]))
 
 # Plot pokemon based on Type 1 field
+sns.set()
 title('Legendary Pokémon Distribution based on Type')
 legendary_df = df[df['Legendary'] == True]
 fig1 = plt.figure()
